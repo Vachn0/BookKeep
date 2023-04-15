@@ -1,0 +1,15 @@
+D:\BookKeep_App\BookKeep\bin\Debug\BookKeep.exe.config
+D:\BookKeep_App\BookKeep\bin\Debug\BookKeep.exe
+D:\BookKeep_App\BookKeep\bin\Debug\BookKeep.pdb
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.csproj.AssemblyReference.cache
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.csproj.SuggestedBindingRedirects.cache
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.Properties.Resources.resources
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.csproj.GenerateResource.cache
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.csproj.CoreCompileInputs.cache
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.exe
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.pdb
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.BookKeep.resources
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.AddBook.resources
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.RentBook.resources
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.ReturnBook.resources
+D:\BookKeep_App\BookKeep\obj\Debug\BookKeep.SearchSys.resources
